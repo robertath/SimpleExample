@@ -6,7 +6,7 @@ Basic examples
 To running this project on your machine, please type: 
 
 ```
-Files
-app.js
-index.html
+note app.js
+
+;)
 ```
