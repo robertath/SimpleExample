@@ -7,4 +7,6 @@ To running this project on your machine, please type:
 
 ```
 note app.js
+
+;)
 ```
